@@ -1,5 +1,5 @@
 go-dicom
-Copyright 2025 Immeditech GmbH
+Copyright 2026 Immeditech AG
 
 This product is a fork and includes software developed by third parties,
 distributed under the Apache License, Version 2.0 / MIT:
@@ -14,7 +14,7 @@ distributed under the Apache License, Version 2.0 / MIT:
   - gillesdemey/go-dicom — original ancestor
     https://github.com/gillesdemey/go-dicom
 
-Modifications by Immeditech GmbH are licensed under the Apache License,
+Modifications by Immeditech AG are licensed under the Apache License,
 Version 2.0 (see LICENSE). The module path was renamed to
 github.com/immeditech/go-dicom so the package can be imported directly
 (without a replace directive) by github.com/immeditech/go-netdicom.

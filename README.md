@@ -4,7 +4,7 @@
 
 ## Fork
 
-Maintained by Immeditech GmbH, based on `segmed/go-dicom` (a maintained fork of
+Maintained by Immeditech AG, based on `segmed/go-dicom` (a maintained fork of
 `grailbio/go-dicom`). The module path was renamed to
 `github.com/immeditech/go-dicom` so it can be imported directly — without a
 `replace` directive — by `github.com/immeditech/go-netdicom`. Licensed under
