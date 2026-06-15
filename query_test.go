@@ -3,8 +3,8 @@ package dicom_test
 import (
 	"testing"
 
-	"github.com/grailbio/go-dicom"
-	"github.com/grailbio/go-dicom/dicomtag"
+	"github.com/immeditech/go-dicom"
+	"github.com/immeditech/go-dicom/dicomtag"
 	"github.com/stretchr/testify/assert"
 )
 

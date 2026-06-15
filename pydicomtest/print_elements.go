@@ -11,9 +11,9 @@ import (
 	"sort"
 	"strings"
 
-	"github.com/grailbio/go-dicom"
-	"github.com/grailbio/go-dicom/dicomtag"
-	"github.com/grailbio/go-dicom/dicomuid"
+	"github.com/immeditech/go-dicom"
+	"github.com/immeditech/go-dicom/dicomtag"
+	"github.com/immeditech/go-dicom/dicomuid"
 )
 
 var (

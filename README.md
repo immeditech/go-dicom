@@ -1,8 +1,16 @@
-[![GoDoc](https://godoc.org/github.com/grailbio/go-dicom?status.svg)](https://godoc.org/github.com/grailbio/go-dicom) [![Build Status](https://travis-ci.org/grailbio/go-dicom.svg?branch=master)](https://travis-ci.org/grailbio/go-dicom.svg?branch=master)
+[![GoDoc](https://godoc.org/github.com/immeditech/go-dicom?status.svg)](https://godoc.org/github.com/immeditech/go-dicom) [![Build Status](https://travis-ci.org/grailbio/go-dicom.svg?branch=master)](https://travis-ci.org/grailbio/go-dicom.svg?branch=master)
 
 # DICOM parser in Go
 
+## Fork
 
+Maintained by Immeditech GmbH, based on `segmed/go-dicom` (a maintained fork of
+`grailbio/go-dicom`). The module path was renamed to
+`github.com/immeditech/go-dicom` so it can be imported directly — without a
+`replace` directive — by `github.com/immeditech/go-netdicom`. Licensed under
+Apache-2.0 (see `LICENSE` and `NOTICE`).
+
+---
 
 This is a fork of github.com/gillesdemey/go-dicom. Changes are:
 

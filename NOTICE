@@ -1,0 +1,20 @@
+go-dicom
+Copyright 2025 Immeditech GmbH
+
+This product is a fork and includes software developed by third parties,
+distributed under the Apache License, Version 2.0 / MIT:
+
+  - grailbio/go-dicom — DICOM parser
+    Copyright 2017 GRAIL, Inc.
+    https://github.com/grailbio/go-dicom
+
+  - segmed/go-dicom — maintained fork this fork is based on
+    https://github.com/segmed/go-dicom
+
+  - gillesdemey/go-dicom — original ancestor
+    https://github.com/gillesdemey/go-dicom
+
+Modifications by Immeditech GmbH are licensed under the Apache License,
+Version 2.0 (see LICENSE). The module path was renamed to
+github.com/immeditech/go-dicom so the package can be imported directly
+(without a replace directive) by github.com/immeditech/go-netdicom.
